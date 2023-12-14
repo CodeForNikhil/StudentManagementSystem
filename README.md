@@ -1,6 +1,6 @@
 # Student Management Application
 
-This project is a Student Management Application developed using Spring Boot for the backend REST API and Bootstrap with React for the frontend and MySQL for the database.
+This project is a Student Management Application developed using Spring Boot for the backend REST API,Bootstrap with React for the frontend and MySQL for the database.
 
 ## Features
 
