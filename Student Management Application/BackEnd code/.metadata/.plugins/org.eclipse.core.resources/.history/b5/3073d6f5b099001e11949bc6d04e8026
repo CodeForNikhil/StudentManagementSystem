@@ -1,0 +1,1 @@
+INSERT INTO STUDENT(ID,FIRST_NAME,LAST_NAME,EMAIL,DEPARTMENT) VALUES (1,'Nikhil','Nandanwar','nikhilnandanwar2@gmail.com','Technology');

@@ -1,0 +1,8 @@
+package com.studentmanagement.exception;
+
+public class StudentAlreadyExistsException extends RuntimeException {
+	
+	public void StudentAlreadyExistsException(String message) {
+		super(message);
+	}
+}

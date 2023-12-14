@@ -1,0 +1,5 @@
+package com.studentmanagement.beans;
+
+public class Student {
+
+}

@@ -1,0 +1,13 @@
+package com.studentmanagement.controller;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.studentmanagement.service.StudentServiceImpl;
+
+@RestController
+@RequestMapping("/student")
+public class StudentController {
+
+	private StudentServiceImpl studentServiceImpl;
+}

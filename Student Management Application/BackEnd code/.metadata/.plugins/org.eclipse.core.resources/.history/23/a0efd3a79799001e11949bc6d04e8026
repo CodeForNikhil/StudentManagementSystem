@@ -1,0 +1,43 @@
+package com.studentmanagement.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.studentmanagement.beans.Student;
+
+@Service
+public class StudentServiceImpl implements StudentService{
+
+	@Override
+	public Student addStudent(Student student) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Student> getStudents() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Student updateStudent(Student student, int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Student getStudent(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteStudent(int id) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}

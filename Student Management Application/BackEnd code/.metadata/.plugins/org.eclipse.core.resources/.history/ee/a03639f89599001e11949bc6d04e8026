@@ -1,0 +1,8 @@
+package com.studentmanagement.beans;
+
+public class Student {
+	
+	private int id;
+	private String name;
+
+}
